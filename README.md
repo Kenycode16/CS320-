@@ -1,6 +1,6 @@
-Portfolio Overview
-Project Submissions
-Project One: Contact Service
+Project One: Contact 
+
+
 For Project One, I developed the Contact Service. The files included are:
 
 Contact.java: Defines the Contact class with attributes like ID, name, and phone number.
